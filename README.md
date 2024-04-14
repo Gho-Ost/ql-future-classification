@@ -45,7 +45,8 @@ base model: https://github.com/milesial/Pytorch-UNet <br>
 torch hub model: https://colab.research.google.com/github/pytorch/pytorch.github.io/blob/master/assets/hub/mateuszbuda_brain-segmentation-pytorch_unet.ipynb#scrollTo=a50761ab <br>
 
 ## References:
-ResNet: https://arxiv.org/abs/1512.03385
-Unet: https://arxiv.org/abs/1505.04597
-QNN: https://arxiv.org/abs/2205.08154
-QCNN: https://arxiv.org/abs/1810.03787
+ResNet: https://arxiv.org/abs/1512.03385 <br>
+Unet: https://arxiv.org/abs/1505.04597 <br>
+QNN: https://arxiv.org/abs/2205.08154 <br>
+QCNN: https://arxiv.org/abs/1810.03787 <br>
+QCNN for classification - tutorial: https://www.frontiersin.org/articles/10.3389/fphy.2022.1069985/full#B31 <br>
