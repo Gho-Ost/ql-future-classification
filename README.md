@@ -12,7 +12,6 @@ Breast cancer is one of the most common causes of death among women worldwide. E
 Image recognition dataset:
 The data collected at baseline include breast ultrasound images among women in ages between 25 and 75 years old. This data was collected in 2018. The number of patients is 600 female patients. The dataset consists of 780 images with an average image size of 500*500 pixels, although the sizes vary among images. The images are in PNG format. The ground truth images are presented with original images. The images are categorized into three classes, which are normal, benign, and malignant.
 
-
 ## drive links with models and more data:
 https://drive.google.com/drive/folders/1ljjVvm4S7X6dXdtbS4wCe1CKylzP5UDz?usp=sharing
 https://drive.google.com/drive/folders/1EWM-WX8GLZYZvp0joQc5j-rzB18B3-wD?usp=sharing
@@ -39,6 +38,13 @@ https://drive.google.com/drive/folders/1EWM-WX8GLZYZvp0joQc5j-rzB18B3-wD?usp=sha
 
 ## Solution:
 
+We have developed a hybrid CNN-quantum model. The solution outperformed the classical CNN model by achieving the accuracy of 80.5% in comparison to ~56% for the classical CNN solution.
+
+### GUI
+
+We have created a simple GUI application to show how the analysis can be easily implemented within a medical system. To run the app run ```> python AI_assistant.py``` within the proper environment.
+
+![app](imgs/app_screenshot.png)
 
 ## U-net reference links:
 base model: https://github.com/milesial/Pytorch-UNet <br>
